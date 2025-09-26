@@ -1,7 +1,7 @@
 # Hey 👋, I'm Jatin  
 
 I’m a **B.Sc student → Software Engineer in progress 🚀**  
-Currently learning **Frontend (HTML, CSS, JS, React)** + diving into **C++ DSA** and exploring **Game Dev with Unreal Engine**.  
+Currently learning **Frontend (Next.js , React.js)** + **Backend (Next.js, Node.js, Express.js)** + diving into **C++ DSA** and exploring **Game Dev with Unreal Engine**.  
 I like building cool dashboards, real-time apps, and creative side projects that mix tech with imagination.  
 
 ---
