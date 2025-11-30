@@ -52,18 +52,6 @@ Tech: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) 
 
 ---
 
-### 🌍 Real-Time Internet War Map *(coming soon)*  
-A hacker-style UI dashboard showing **live DDoS attacks, outages & global pings** in real-time.  
-Tech: ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript) ![Leaflet.js](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet)  
-
----
-
-### 🌪️ DisasterMap *(planned)*  
-Global disaster dashboard showing **earthquakes, wildfires, floods, storms** live.  
-Tech: ![Leaflet.js](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet) ![APIs](https://img.shields.io/badge/API-FF6F00?style=flat&logo=graphql)  
-
----
-
 ### 🎬 Movie Search App *(React)*  
 Search and display movie cards using **OMDB API**.  
 Tech: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![API](https://img.shields.io/badge/API-FF6F00?style=flat&logo=graphql)  
