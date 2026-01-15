@@ -48,7 +48,7 @@ I like building cool dashboards, real-time apps, and creative side projects that
 
 ### 🏥 MedBrief  
 Simplifies health reports by extracting key insights and presenting them in an easy-to-understand format.  
-Tech: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)  
+Tech: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js)
 🔗 [View Project](https://github.com/jatin-2075/MedBrief)  
 
 ---
