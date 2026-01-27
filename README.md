@@ -8,8 +8,8 @@ I like building cool dashboards, real-time apps, and creative side projects that
 ---
 
 ## ⚡ About Me  
-- 🎓 Student at **Bhaskaracharya College of Applied Sciences**  
-- 💻 Interested in **Web Dev | C++ DSA | Game Dev (Unreal Engine) | Machine Learning | AI **  
+- 🎓 2nd year undergrade student at DU off campus  
+- 💻 Interested in **Web Dev | C++ DSA | Game Dev (Unreal Engine) | Machine Learning | AI**  
 - 🌍 Love working on **real-time dashboards** (internet attacks, disasters, weather, etc.)  
 - 🎮 Building game ideas like *Stranded Beyond* in free time  
 - ⚡ Always curious, always experimenting  
