@@ -46,13 +46,12 @@ I like building cool dashboards, real-time apps, and creative side projects that
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📚 Currently Learning
-![DSA](https://img.shields.io/badge/DSA-2C2C2C?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Codeforces Stats](https://cf-leaderboard-stats.vercel.app/api?username=jatin23272005)
-
+## 🏆 Competitive Programming
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/jatin23272005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Jatin-2075/)
 
 ---
+
 
 ## 🚀 Featured Projects  
 
