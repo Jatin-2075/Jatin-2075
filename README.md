@@ -66,6 +66,8 @@ Tech: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) 
 
 ---
 
+![snake gif](https://github.com/jatin-2075/jatin-2075/blob/output/github-contribution-grid-snake.svg)
+
 ## 📊 GitHub Stats  
 ![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatin-2075&show_icons=true&theme=radical&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-2075&layout=compact&theme=radical&cache_seconds=1800)
