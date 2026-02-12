@@ -49,6 +49,8 @@ I like building cool dashboards, real-time apps, and creative side projects that
 ### 📚 Currently Learning
 ![DSA](https://img.shields.io/badge/DSA-2C2C2C?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Codeforces Stats](https://cf-leaderboard-stats.vercel.app/api?username=jatin23272005)
+
 
 ---
 
