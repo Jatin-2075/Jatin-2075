@@ -62,7 +62,7 @@ Simplifies health reports by extracting key insights and presenting them in an e
 Tech: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 🔗 [View Project](https://github.com/jatin-2075/MedBrief)    [Visit Website](https://med-brief-4hin.vercel.app/)  
 
-### 🎓 Campus Circle (Under Development 🚧)  
+### 🎓 Campus Circle 
 A college community platform where students can connect, share updates, and stay informed about campus activities.  
 Tech: ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)  
 🔗 [Frontend Preview](https://code-area-mates.vercel.app/)  
