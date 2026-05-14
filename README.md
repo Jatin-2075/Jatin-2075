@@ -9,7 +9,7 @@ I like building cool dashboards, real-time apps, and creative side projects that
 
 ## ⚡ About Me  
 - 🎓 2nd year undergrade student at DU off campus  
-- 💻 Interested in **Web Dev | DSA | Game Dev (Unreal Engine) | Machine Learning / AI**  
+- 💻 Interested in **Web Dev | DSA | Machine Learning / AI**  
 - 🌍 Love working on **Problem Solving Project**
 - ⚡ Always curious, always experimenting  
 
@@ -23,11 +23,9 @@ I like building cool dashboards, real-time apps, and creative side projects that
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
