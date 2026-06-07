@@ -108,7 +108,7 @@ Currently expanding MedBrief with:
 - 🧬 Abnormal value detection & health scoring  
 - 📊 Disease risk prediction (XGBoost + SHAP)  
 - 🤖 RAG-based medical memory (Chroma/Pinecone)  
-- 🗣️ Voice chat integration
+- 🗣️ Voice chat integration in MedBrief
 
 </td>
 </tr>
