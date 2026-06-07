@@ -8,7 +8,7 @@ I like building cool dashboards, real-time apps, and creative side projects that
 ---
 
 ## ⚡ About Me  
-- 🎓 2nd year undergrade student at DU off campus  
+- 🎓 3rd year undergrade student at DU off campus  
 - 💻 Interested in **Web Dev | DSA | Machine Learning / AI**  
 - 🌍 Love working on **Problem Solving Project**
 - ⚡ Always curious, always experimenting  
