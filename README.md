@@ -109,8 +109,8 @@ Docker Compose + Makefile  →  one-command local setup
 
 | Platform | Handle | Rating | Problems | Tier |
 |:---|:---|:---:|:---:|:---:|
-| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [jatin23272005](https://codeforces.com/profile/jatin23272005) | **1509+** | **330+** | 🔵 Specialist |
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | [Jatin-2075](https://leetcode.com/Jatin-2075/) | — | **140+** | Active |
+| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white) | [jatin23272005](https://codeforces.com/profile/jatin23272005) | **1509+** | **350+** | 🔵 Specialist |
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white) | [Jatin-2075](https://leetcode.com/Jatin-2075/) | — | **150+** | 1448 |
 
 **Topics mastered:** Dynamic Programming · Graph Theory · Greedy Algorithms · Data Structures · Trees · Binary Search
 
