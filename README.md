@@ -101,40 +101,6 @@ Docker Compose + Makefile  →  one-command local setup
 
 ---
 
-### 🏫 [Campus Circle](https://github.com/Jatin-2075) — College Community Platform
-
-> *Real-time campus updates. Peer connections. Department-wise feeds.*
-
-```
-Supabase PostgreSQL  →  auth + file storage + real-time subscriptions (no dedicated auth service)
-React + Tailwind CSS  →  post feeds · user profiles · department-wise filtering
-```
-
-**Impact:** `100+ registered students`
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Jatin-2075)
-
----
-
-## `$ cat stack.json`
-
-```json
-{
-  "frontend":  ["React 19", "TypeScript", "JavaScript", "Tailwind CSS", "Vite", "Framer Motion"],
-  "backend":   ["FastAPI", "Django REST", "SQLAlchemy", "Alembic", "WebSockets", "Node.js"],
-  "databases": ["PostgreSQL", "MongoDB", "Redis (Upstash)", "Supabase", "VectorDB", "Neon"],
-  "ai_ml":     ["LangChain", "Gemini AI", "PyTorch", "Scikit-learn", "RAG", "pdfplumber"],
-  "devops":    ["Docker", "Git", "Vercel", "Render", "Linux", "Postman"],
-  "languages": ["Python", "TypeScript", "JavaScript", "C++", "C", "SQL"]
-}
-```
-
 ---
 
 ## `$ codeforces --profile jatin23272005`
