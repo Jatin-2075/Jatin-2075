@@ -43,10 +43,10 @@ class Jatin:
 
 <div align="center">
 
-| 🏆 CF Rating | ✅ CF Problems | 🧠 LeetCode | 🏥 MedBrief Users |
+| 🏆 CF Rating | ✅ CF Problems | 🧠 LeetCode |
 |:---:|:---:|:---:|:---:|
-| **1509+** | **330+** | **140+** | **25+** |
-| Specialist tier | DP · Graphs · Greedy | Arrays · Trees · DP | Production-deployed |
+| **1500+** | **400+** | **200+** |
+| Specialist tier | DP · Graphs · Greedy | Arrays · Trees · DP |
 
 </div>
 
