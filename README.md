@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=520&lines=SWE+intern+by+day;Hackathon+goblin+by+night;Turns+messy+PDFs+into+plain+English;Chasing+Codeforces+rating+for+fun)](https://github.com/Jatin-2075)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=22C55E&center=true&vCenter=true&width=520&lines=SWE+intern+by+day;Hackathon+goblin+by+night;Chasing+Codeforces+rating+for+fun)](https://github.com/Jatin-2075)
 
 </div>
 
 ## 👋 Hey
 
-I'm Jatin, a Delhi kid studying polymer science who somehow fell down the code rabbit hole and never climbed out. These days I'm a Software Engineering Intern at **TalkingLabs EdTech**, and in my free time I build things for hackathons, usually with a deadline that's already too close.
+I'm Jatin, a Delhi kid studying who somehow fell down the code rabbit hole and never climbed out. These days I'm a Software Engineering Intern at **TalkingLabs EdTech**, and in my free time I build things for hackathons, usually with a deadline that's already too close.
 
 The proudest one right now: my team won the college round of **Smart India Hackathon 2026** with an app that tracks a vehicle's position when GPS dies. Nationals are next.
 
